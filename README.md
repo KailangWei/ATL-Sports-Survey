@@ -9,3 +9,7 @@ Data analytics on Atlanta Sports Survey data including many topics like social m
 •	What are the drivers or deterrents to fandom in general or for specific teams?  For example, question 28 asks about how a variety of factors influences fandom.  What are the key factors?  Do these factors vary across teams?  Do these factors vary across segments?  
 4. Special Topics
 •	This year’s survey includes questions about “not in seats” fan activities, gambling, esports and sustainability.  I encourage groups to investigate these special topics. 
+
+Data:
+Sample1: Evenly distributed fandom base for four teams in Atlanta
+Sample2：Fandom base distributed according real situation in Atlanta (Braves > Falcons, Hawks, AUFC > Dreams)
